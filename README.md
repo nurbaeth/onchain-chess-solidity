@@ -13,4 +13,4 @@ No backend. No database. Pure smart contract logic.
 
 📦 Pure Solidity implementation
 
-🌐 100% onchain — everything lives on Ethereum
+🌐 100% onchain — everything lives on Ethereum 
